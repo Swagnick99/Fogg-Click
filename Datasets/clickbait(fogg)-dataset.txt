@@ -1,0 +1,25 @@
+Turkish Clickbait Dataset -  all tweets written in turkish
+ 
+Clickbait Headline Detection in Indonesian News Sites 
+mentioned some criteria of clickbait 
+ 
+No. Criterion
+1    Contains teaser message to entice curiosity
+2    Contains following images or video
+3    Contains controversial word and/or buzzword
+4    Contains hyperbolic sentence and/or word
+5    Contains question for the reader
+6    Contains emotion-provoking word
+
+
+what's information gap in curiosity ?
+
+Novelty, surprice value, information gap, activated questions generated in readers mind   
+
+
+
+main question to answer 
+ 
+can a particular clibait is formed by both spark and facilator trigger?
+
+if we can build a clibait that's targeting to be spark as well as facilator then why we are building clickbaits which just have the one category?
